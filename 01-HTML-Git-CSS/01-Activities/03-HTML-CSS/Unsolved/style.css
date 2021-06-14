@@ -1,0 +1,47 @@
+body {
+  padding: 0;
+  margin: 250;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  line-height: 150%;
+  color: #333;
+  background: #8d8d8d;
+}
+
+h1 {
+    padding: 20px 0;
+    margin: 0;
+    margin-bottom: 20px;
+    font-size: 28px;
+    color: #eee;
+    text-align: center;
+    background: #333;
+  }
+
+  h2 {
+    font-size: 24px;
+    margin: 100;
+    line-height: 0%
+  }
+
+  a {
+    color: #d21034;
+  }
+
+  .container {
+    display: flex; 
+    justify-content: flex;
+    left: 60%px;
+  }
+
+  img {
+    float: left;
+    margin-right: 10px
+  }
+
+
+  
+  
+
+
+
