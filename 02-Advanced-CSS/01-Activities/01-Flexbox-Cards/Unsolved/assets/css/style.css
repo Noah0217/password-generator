@@ -35,6 +35,9 @@ main h2 {
 
 .flex-container {
   /* TODO: Enter your CSS here */
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
 }
 
 /* flex child */
@@ -68,6 +71,8 @@ main h2 {
 /* for text area inside of flex item */
 .flex-item span {
   /* TODO: Enter your CSS here */
+  margin-top: auto;
+  padding: 10px 5px;
 }
 
 footer {

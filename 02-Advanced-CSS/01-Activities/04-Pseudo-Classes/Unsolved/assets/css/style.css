@@ -28,10 +28,21 @@ li {
 }
 
 /* TODO: Add your code to change the style of the list items when hovering over them */
+li a:hover {
+  color: orange;
+  font-weight: bold;
+  filter:drop-shadow(30px 10px 4px #ddb944);
+}
 
 /* TODO: Add your code to add a potato emoji to the list item */
+li::before {
+  content: '🥔';
+}
 
 /* TODO: Add your code to change the potato to a heart */
+  li:hover:after {
+  content: '❤️';
+}
 
 /* TODO: Add your code to give every other list item a different background color */
 
