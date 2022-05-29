@@ -1,6 +1,6 @@
 # Password-Generator
 
-<h2>Description<br><h4>A server based application used to take notes, and have them saved and ready to use when ever needed
+<h2>Description<br><h4>A password generator used to create unique passwords.
 <h3 align="left">App Deployed Here</h3>
  https://noah0217.github.io/password-generator/
   
