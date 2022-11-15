@@ -2,7 +2,7 @@
 
 # Password-Generator
 
-<h2>Description<br><h4>A password generator used to create unique randomly generated passwords.
+<h2>Description<br><h4>A password generator used to create unique generated passwords.
 <h3 align="left">App Deployed Here</h3>
  https://noah0217.github.io/password-generator/
   
